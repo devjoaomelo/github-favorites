@@ -162,4 +162,12 @@ td .remove {
     header h1 {
         font-size: 3rem;
     }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        box-shadow: 0 0 2rem .1rem rgb(32, 32, 32);
+        padding-right: 10px;
+        
+    }
 }
